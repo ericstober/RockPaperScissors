@@ -30,7 +30,3 @@ cd RockPaperScissors
 - Scissors beats Paper
 - Paper beat Rock
 - Player with the highest score wins
-
-## License
-
-The project is licensed under the MIT License.
